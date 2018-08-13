@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<diff>
+  <add sel="/macros/macro[@name='struct_econ_prod_turrets_macro']/connections"><connection ref="connection_turret_medium_lb02">
+        <macro ref="turret_medium_lb_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_medium_lb03">
+        <macro ref="turret_medium_lb_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_medium_pe05">
+        <macro ref="turret_medium_pe_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_medium_pe06">
+        <macro ref="turret_medium_pe_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_medium_pe07">
+        <macro ref="turret_medium_pe_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_medium_pe08">
+        <macro ref="turret_medium_pe_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_small_sg04">
+        <macro ref="turret_small_sg_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_small_sg05">
+        <macro ref="turret_small_sg_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_small_sg06">
+        <macro ref="turret_small_sg_macro" connection="connection_component01"/>
+      </connection>
+    </add>
+</diff>

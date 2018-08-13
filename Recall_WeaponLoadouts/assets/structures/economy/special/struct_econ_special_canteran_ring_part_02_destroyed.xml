@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<diff>
+  <add sel="/components/component[@name='struct_econ_special_canteran_ring_part_02_destroyed']/connections"><connection name="connection_turret_small_mg02" group="group01 " tags="turret_small_mg ">
+				<offset>
+					<position x="-1253.034" y="-21.7874" z="104.3012"/>
+					<quaternion qx="-0.7368515" qy="-8.349195E-03" qz="-0.6755711" qw="-0.0241637"/>
+				</offset>
+			</connection>
+		</add>
+</diff>

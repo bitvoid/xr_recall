@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<diff>
+  <add sel="/components/component[@name='struct_econ_prod_spices']/connections"><connection name="connection_turret_medium_pe03" group="group02 " tags="turret_medium_pe ">
+				<offset>
+					<position x="-896.4207" y="282.1229" z="711.372"/>
+					<quaternion qx="-0.9043084" qy="-0.4268798" qz="1.611118E-08" qw="-1.906754E-07"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_medium_pe04" group="group02 " tags="turret_medium_pe ">
+				<offset>
+					<position x="-822.827" y="355.5908" z="711.372"/>
+					<quaternion qx="-0.9411965" qy="-0.3378597" qz="4.679637E-08" qw="-2.145243E-07"/>
+				</offset>
+			</connection>
+		</add>
+</diff>

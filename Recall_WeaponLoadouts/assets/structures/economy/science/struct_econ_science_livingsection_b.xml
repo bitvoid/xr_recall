@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<diff>
+  <add sel="/components/component[@name='struct_econ_science_livingsection_b']/connections"><connection name="connection_turret_small_mg03" group="group01 " tags="turret_small_mg ">
+				<offset>
+					<position x="372.8333" y="1860.564" z="-281.6626"/>
+					<quaternion qx="0.5" qy="-2.165914E-07" qz="-0.8660254" qw="4.930584E-08"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg04" group="group01 " tags="turret_small_mg ">
+				<offset>
+					<position x="360.7081" y="1860.564" z="-302.6641"/>
+					<quaternion qx="0.5" qy="-2.165914E-07" qz="-0.8660254" qw="4.930584E-08"/>
+				</offset>
+			</connection>
+			</add>
+</diff>

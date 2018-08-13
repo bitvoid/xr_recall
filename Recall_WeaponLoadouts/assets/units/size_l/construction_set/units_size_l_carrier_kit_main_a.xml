@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<diff>
+  <add sel="/components/component[@name='units_size_l_carrier_kit_main_a']/connections"><connection name="connection_turret_small_mg03" group="group01 " tags="turret_small_mg ">
+				<offset>
+					<position x="-40.00219" y="-64.20658" z="-21.92595"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg04" group="group01 " tags="turret_small_mg ">
+				<offset>
+					<position x="39.63388" y="-64.20658" z="-21.92593"/>
+				</offset>
+			</connection>
+			</add>
+</diff>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<diff>
+  <add sel="/components/component[@name='units_size_l_liquid_freighter']/connections"><connection name="connection_turret_small_mg03" group="group02 " tags="turret_small_mg ">
+				<offset>
+					<position x="78.61582" y="-128.8245" z="529.6507"/>
+					<quaternion qx="6.104829E-02" qy="-0.9981349" qz="9.946028E-09" qw="-1.626168E-07"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg04" group="group02 " tags="turret_small_mg ">
+				<offset>
+					<position x="-79.26774" y="-128.8956" z="529.6507"/>
+					<quaternion qx="-6.104859E-02" qy="-0.9981348" qz="-9.946077E-09" qw="-1.626168E-07"/>
+				</offset>
+			</connection>
+			</add>
+</diff>

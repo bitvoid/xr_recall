@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<diff>
+  <add sel="/components/component[@name='struct_econ_science_addon_thin_a']/connections"><connection name="connection_turret_small_mg04" group="group02 " tags="turret_small_mg ">
+				<offset>
+					<position x="-188.5488" y="-668.4626" z="160.5075"/>
+					<quaternion qx="-0.6703835" qy="-0.6703835" qz="0.2249131" qw="0.2249132"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg05" group="group02 " tags="turret_small_mg ">
+				<offset>
+					<position x="-188.5488" y="-601.8403" z="160.5075"/>
+					<quaternion qx="-0.6703835" qy="-0.6703835" qz="0.2249131" qw="0.2249132"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg06" group="group03 " tags="turret_small_mg ">
+				<offset>
+					<position x="188.4713" y="-668.4626" z="160.5075"/>
+					<quaternion qx="0.6703835" qy="-0.6703835" qz="0.2249133" qw="-0.2249133"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg07" group="group03 " tags="turret_small_mg ">
+				<offset>
+					<position x="188.4713" y="-601.8404" z="160.5075"/>
+					<quaternion qx="0.6703835" qy="-0.6703835" qz="0.2249133" qw="-0.2249133"/>
+				</offset>
+			</connection>
+			</add>
+</diff>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<diff>
+  <add sel="/components/component[@name='units_size_xl_cargo_hauler_3']/connections"><connection name="connection_turret_small_mg03" group="group02 " tags="turret_small_mg ">
+				<offset>
+					<position x="-26.08438" y="32.76419" z="749.4867"/>
+					<quaternion qx="-0.7071068" qy="-0.7071068" qz="1.194184E-07" qw="1.109862E-07"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg04" group="group02 " tags="turret_small_mg ">
+				<offset>
+					<position x="37.94231" y="32.76419" z="749.4867"/>
+					<quaternion qx="0.7071066" qy="-0.7071069" qz="9.8338E-08" qw="-9.833797E-08"/>
+				</offset>
+			</connection>
+			</add>
+</diff>

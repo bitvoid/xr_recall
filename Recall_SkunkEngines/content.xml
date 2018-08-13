@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="Recall_SkunkEngines" name="Recall Skunk Engines" description="This mod restores the speed and acceleration for the Skunk's engines to those in original non-VR X:Rebirth." author="bitvoid" version="100" date="" save="false">
+  <dependency id="ego_vr" version="100" />
+</content>

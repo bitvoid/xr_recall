@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<diff>
+  <add sel="/components/component[@name='struct_econ_prod_chemicalcompounds']/connections"><connection name="connection_turret_medium_pe03" group="group02 " tags="turret_medium_pe ">
+				<offset>
+					<position x="-355.3238" y="731.7347" z="57.36604"/>
+					<quaternion qx="-1" qy="-0" qz="-0" qw="-1.629207E-07"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_medium_pe04" group="group02 " tags="turret_medium_pe ">
+				<offset>
+					<position x="-355.3238" y="731.7347" z="11.09821"/>
+					<quaternion qx="-7.54979E-08" qy="1.629207E-07" qz="-1" qw="-1.230017E-14"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg06" group="group03 " tags="turret_small_mg ">
+				<offset>
+					<position x="-49.55166" y="52.97459" z="-117.7164"/>
+					<quaternion qx="-5.326728E-08" qy="1.066464E-07" qz="-0.8946148" qw="0.4468383"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg07" group="group03 " tags="turret_small_mg ">
+				<offset>
+					<position x="-26.15491" y="84.11579" z="-117.7164"/>
+					<quaternion qx="-5.326728E-08" qy="1.066464E-07" qz="-0.8946148" qw="0.4468383"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg08" group="group04 " tags="turret_small_mg ">
+				<offset>
+					<position x="-1.797857" y="116.5352" z="185.903"/>
+					<quaternion qx="-0.8946147" qy="-0.4468384" qz="3.899304E-08" qw="1.795574E-07"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg09" group="group04 " tags="turret_small_mg ">
+				<offset>
+					<position x="-49.55166" y="52.97459" z="185.903"/>
+					<quaternion qx="-0.8946147" qy="-0.4468384" qz="3.899304E-08" qw="1.795574E-07"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg10" group="group04 " tags="turret_small_mg ">
+				<offset>
+					<position x="-26.15491" y="84.11579" z="185.903"/>
+					<quaternion qx="-0.8946147" qy="-0.4468384" qz="3.899304E-08" qw="1.795574E-07"/>
+				</offset>
+			</connection>
+			</add>
+</diff>

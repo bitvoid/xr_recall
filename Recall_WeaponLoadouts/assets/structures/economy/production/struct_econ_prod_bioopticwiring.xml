@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<diff>
+  <add sel="/components/component[@name='struct_econ_prod_bioopticwiring']/connections"><connection name="connection_turret_small_mg04" group="group02 " tags="turret_small_mg ">
+				<offset>
+					<position x="-137.7272" y="-53.01786" z="671.1219"/>
+					<quaternion qx="-0.6532813" qy="-0.270598" qz="-0.6532817" qw="0.270598"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg05" group="group02 " tags="turret_small_mg ">
+				<offset>
+					<position x="-137.7272" y="-53.01786" z="643.1135"/>
+					<quaternion qx="-0.6532813" qy="-0.270598" qz="-0.6532817" qw="0.270598"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg06" group="group02 " tags="turret_small_mg ">
+				<offset>
+					<position x="-137.7272" y="-53.01786" z="699.3052"/>
+					<quaternion qx="-0.6532813" qy="-0.270598" qz="-0.6532817" qw="0.270598"/>
+				</offset>
+			</connection>
+			</add>
+</diff>

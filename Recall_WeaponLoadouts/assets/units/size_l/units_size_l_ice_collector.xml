@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<diff>
+  <add sel="/components/component[@name='units_size_l_ice_collector']/connections"><connection name="connection_turret_small_mg05" group="group02 " tags="turret_small_mg ">
+				<offset>
+					<position x="57.31703" y="-14.08116" z="447.7545"/>
+					<quaternion qx="-0.9600498" qy="0.2798291" qz="-4.196511E-08" qw="1.223172E-08"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg06" group="group02 " tags="turret_small_mg ">
+				<offset>
+					<position x="-57.11311" y="-14.08116" z="447.7545"/>
+					<quaternion qx="-0.9600499" qy="-0.279829" qz="-4.196511E-08" qw="-1.223171E-08"/>
+				</offset>
+			</connection>
+			</add>
+</diff>

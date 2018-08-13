@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<diff>
+  <add sel="/components/component[@name='units_size_l_canteran_transporter']/connections"><connection name="connection_turret_small_mg01" group="group01 " tags="turret_small_mg ">
+				<offset>
+					<position x="-58.7118" y="-21.14899" z="-99.91718"/>
+					<quaternion qx="1.246907E-07" qy="-8.515843E-08" qz="0.5639788" qw="-0.8257893"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg02" group="group01 " tags="turret_small_mg ">
+				<offset>
+					<position x="58.68916" y="-21.14899" z="-99.91718"/>
+					<quaternion qx="1.246906E-07" qy="8.515863E-08" qz="-0.5639802" qw="-0.8257883"/>
+				</offset>
+			</connection>
+			</add>
+</diff>

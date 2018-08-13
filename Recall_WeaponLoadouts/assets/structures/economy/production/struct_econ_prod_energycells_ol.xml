@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<diff>
+  <add sel="/components/component[@name='struct_econ_prod_energycells_ol']/connections"><connection name="connection_turret_medium_pe03" group="group02 " tags="turret_medium_pe ">
+				<offset>
+					<position x="344.4884" y="535.6838" z="231.809"/>
+					<quaternion qx="-2.669254E-08" qy="1.952799E-07" qz="-0.7071068" qw="-0.7071068"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_medium_pe04" group="group02 " tags="turret_medium_pe ">
+				<offset>
+					<position x="344.4884" y="349.2191" z="231.809"/>
+					<quaternion qx="-2.669254E-08" qy="1.952799E-07" qz="-0.7071068" qw="-0.7071068"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg03" group="group02 " tags="turret_small_mg ">
+				<offset>
+					<position x="344.4884" y="401.2041" z="231.809"/>
+					<quaternion qx="-2.669254E-08" qy="3.189144E-07" qz="-0.7071068" qw="-0.7071068"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg04" group="group02 " tags="turret_small_mg ">
+				<offset>
+					<position x="344.4884" y="485.2422" z="231.809"/>
+					<quaternion qx="-2.669254E-08" qy="3.189144E-07" qz="-0.7071068" qw="-0.7071068"/>
+				</offset>
+			</connection>
+		</add>
+</diff>

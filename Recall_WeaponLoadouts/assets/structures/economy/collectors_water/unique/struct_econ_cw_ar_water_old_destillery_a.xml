@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<diff>
+  <add sel="/components/component[@name='struct_econ_cw_ar_water_old_destillery_a']/connections"><connection name="connection_turret_small_mg02" group="group07 " tags="turret_small_mg ">
+				<offset>
+					<position x="29.33802" y="109.3494" z="-460.0647"/>
+					<quaternion qx="-8.697533E-15" qy="8.697533E-15" qz="-0.7071067" qw="-0.7071068"/>
+				</offset>
+			</connection>
+		</add>
+</diff>

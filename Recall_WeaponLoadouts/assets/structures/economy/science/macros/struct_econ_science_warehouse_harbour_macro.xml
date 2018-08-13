@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<diff>
+  <add sel="/macros/macro[@name='struct_econ_science_warehouse_harbour_macro']/connections"><connection ref="connection_turret_medium_pe004">
+        <macro ref="turret_medium_pe_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_medium_pe005">
+        <macro ref="turret_medium_pe_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_medium_pe006">
+        <macro ref="turret_medium_pe_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_small_mg007">
+        <macro ref="turret_small_mg_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_small_mg008">
+        <macro ref="turret_small_mg_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_small_mg009">
+        <macro ref="turret_small_mg_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_small_mg010">
+        <macro ref="turret_small_mg_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_small_mg011">
+        <macro ref="turret_small_mg_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_small_mg012">
+        <macro ref="turret_small_mg_macro" connection="connection_component01"/>
+      </connection>
+    </add>
+</diff>

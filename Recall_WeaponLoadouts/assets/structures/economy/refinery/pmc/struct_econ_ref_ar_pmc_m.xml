@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<diff>
+  <add sel="/components/component[@name='struct_econ_ref_ar_pmc_m']/connections"><connection name="connection_turret_small_mg03" group="group01 " tags="turret_small_mg ">
+				<offset>
+					<position x="173.9417" y="179.0038" z="-23.07689"/>
+					<quaternion qx="-1" qy="-0" qz="-0" qw="-1.629207E-07"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg04" group="group01 " tags="turret_small_mg ">
+				<offset>
+					<position x="144.1474" y="179.0038" z="-23.07689"/>
+					<quaternion qx="-1" qy="-0" qz="-0" qw="-1.629207E-07"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg05" group="group01 " tags="turret_small_mg ">
+				<offset>
+					<position x="114.1628" y="179.0038" z="-23.07689"/>
+					<quaternion qx="-1" qy="-0" qz="-0" qw="-1.629207E-07"/>
+				</offset>
+			</connection>
+			</add>
+</diff>

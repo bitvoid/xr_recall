@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<diff>
+  <add sel="/macros/macro[@name='struct_econ_prod_stor_container_te_macro']/connections"><connection ref="connection_turret_medium03">
+        <macro ref="turret_medium_te_pe_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_medium04">
+        <macro ref="turret_medium_te_pe_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_small04">
+        <macro ref="turret_small_te_mg_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_small05">
+        <macro ref="turret_small_te_mg_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_small06">
+        <macro ref="turret_small_te_mg_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_small07">
+        <macro ref="turret_small_te_mg_macro" connection="connection_component01"/>
+      </connection>
+    </add>
+</diff>

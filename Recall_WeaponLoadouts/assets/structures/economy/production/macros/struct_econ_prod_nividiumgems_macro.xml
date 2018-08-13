@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<diff>
+  <add sel="/macros/macro[@name='struct_econ_prod_nividiumgems_macro']/connections"><connection ref="connection_turret_small_mg03">
+        <macro ref="turret_small_mg_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_small_mg04">
+        <macro ref="turret_small_mg_macro" connection="connection_component01"/>
+      </connection>
+    </add>
+</diff>

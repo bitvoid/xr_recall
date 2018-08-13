@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<diff>
+  <add sel="/macros/macro[@name='units_size_l_xenon_01_macro']/connections"><connection ref="connection_turret_medium_xe01">
+        <macro ref="turret_medium_xe_bb_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_medium_xe02">
+        <macro ref="turret_medium_xe_bb_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_small_xe02">
+        <macro ref="turret_small_xe_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_small_xe03">
+        <macro ref="turret_small_xe_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_small_xe06">
+        <macro ref="turret_small_xe_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_small_xe07">
+        <macro ref="turret_small_xe_macro" connection="connection_component01"/>
+      </connection>
+    </add>
+</diff>

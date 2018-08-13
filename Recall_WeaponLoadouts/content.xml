@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="Recall_WeaponLoadouts" name="Recall Weapon Loadouts" description="Restores ships and stations to their original X:Rebirth weapon loadouts." author="bitvoid" version="100" date="" save="false">
+  <dependency version="410" />
+  <dependency id="ego_vr" version="100" />
+  <!-- optional="true": No error if dependency missing/disabled. This is only used to define the loading order of extensions (dependencies are loaded first). -->
+  <dependency id="ego_dlc_teladi_outpost" version="100" optional="true" />
+  <dependency id="ego_dlc_2" version="100" optional="true" />
+</content>

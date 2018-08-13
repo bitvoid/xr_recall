@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<diff>
+  <add sel="/macros/macro[@name='units_size_xl_capital_destroyer_2_macro']/connections"><connection ref="connection_turret_medium_lb02">
+        <macro ref="turret_medium_lb_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_medium_lb04">
+        <macro ref="turret_medium_lb_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_medium_pe01">
+        <macro ref="turret_medium_pe_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_medium_pe03">
+        <macro ref="turret_medium_pe_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_small_mg02">
+        <macro ref="turret_small_mg_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_small_mg03">
+        <macro ref="turret_small_mg_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_small_mg04">
+        <macro ref="turret_small_mg_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_small_mg06">
+        <macro ref="turret_small_mg_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_small_mg07">
+        <macro ref="turret_small_mg_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_small_mg09">
+        <macro ref="turret_small_mg_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_small_mg11">
+        <macro ref="turret_small_mg_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_small_mg13">
+        <macro ref="turret_small_mg_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_small_mg14">
+        <macro ref="turret_small_mg_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_small_mg16">
+        <macro ref="turret_small_mg_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_small_mg17">
+        <macro ref="turret_small_mg_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_small_mg18">
+        <macro ref="turret_small_mg_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_small_mg20">
+        <macro ref="turret_small_mg_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_small_mg22">
+        <macro ref="turret_small_mg_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_small_mg23">
+        <macro ref="turret_small_mg_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_small_mg25">
+        <macro ref="turret_small_mg_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_small_sg03">
+        <macro ref="turret_small_sg_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_small_sg04">
+        <macro ref="turret_small_sg_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_small_sg06">
+        <macro ref="turret_small_sg_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_small_sg07">
+        <macro ref="turret_small_sg_macro" connection="connection_component01"/>
+      </connection>
+      </add>
+</diff>

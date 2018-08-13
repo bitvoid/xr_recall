@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<diff>
+  <add sel="/components/component[@name='struct_econ_prod_reinforcedmetal']/connections"><connection name="connection_turret_medium_pe03" group="group05 " tags="turret_medium_pe ">
+				<offset>
+					<position x="-31.77651" y="-47.78638" z="-1952.166"/>
+					<quaternion qx="-0" qy="0.7071068" qz="6.181724E-08" qw="-0.7071068"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_medium_pe04" group="group05 " tags="turret_medium_pe ">
+				<offset>
+					<position x="-79.65651" y="-47.78638" z="-1952.166"/>
+					<quaternion qx="-0" qy="0.7071068" qz="6.181724E-08" qw="-0.7071068"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg06" group="group02 " tags="turret_small_mg ">
+				<offset>
+					<position x="-361.8656" y="164.8899" z="-1641.416"/>
+					<quaternion qx="-0.7071066" qy="1.152023E-07" qz="-0.7071069" qw="-1.152023E-07"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg07" group="group02 " tags="turret_small_mg ">
+				<offset>
+					<position x="-361.8656" y="164.8899" z="-1589.085"/>
+					<quaternion qx="-0.7071066" qy="1.152023E-07" qz="-0.7071069" qw="-1.152023E-07"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg08" group="group02 " tags="turret_small_mg ">
+				<offset>
+					<position x="-361.8656" y="164.8899" z="-1536.914"/>
+					<quaternion qx="-0.7071066" qy="1.152023E-07" qz="-0.7071069" qw="-1.152023E-07"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg09" group="group04 " tags="turret_small_mg ">
+				<offset>
+					<position x="-105.4889" y="-97.58665" z="1168.536"/>
+					<quaternion qx="-2.512148E-15" qy="-0.7071068" qz="-6.181724E-08" qw="-0.7071067"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg10" group="group04 " tags="turret_small_mg ">
+				<offset>
+					<position x="-105.4889" y="-97.58665" z="1223.39"/>
+					<quaternion qx="-2.512148E-15" qy="-0.7071068" qz="-6.181724E-08" qw="-0.7071067"/>
+				</offset>
+			</connection>
+			</add>
+</diff>

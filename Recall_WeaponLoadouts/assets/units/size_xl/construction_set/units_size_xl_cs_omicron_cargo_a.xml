@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<diff>
+  <add sel="/components/component[@name='units_size_xl_cs_omicron_cargo_a']/connections"><connection name="connection_turret_small_mg02" group="group01 " tags="turret_small_mg ">
+				<offset>
+					<position x="151.2106" y="-16.59528" z="101.4917"/>
+					<quaternion qx="0.3744959" qy="-0.9272286" qz="-9.707775E-08" qw="1.563774E-07"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg04" group="group02 " tags="turret_small_mg ">
+				<offset>
+					<position x="-151.436" y="103.4855" z="101.4917"/>
+					<quaternion qx="-0.9272286" qy="-0.3744958" qz="-1.029224E-08" qw="-3.155859E-07"/>
+				</offset>
+			</connection>
+			</add>
+</diff>

@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<diff>
+  <add sel="/components/component[@name='units_size_xl_cs_omicron_front_a']/connections"><connection name="connection_turret_medium_lb03" group="group01 " tags="turret_medium_lb ">
+				<offset>
+					<position x="-104.1116" y="31.76875" z="414.2444"/>
+					<quaternion qx="-0.7071069" qy="3.090863E-08" qz="-0.7071066" qw="3.090861E-08"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_medium_lb05" group="group02 " tags="turret_medium_lb ">
+				<offset>
+					<position x="-104.1116" y="-33.44197" z="354.1298"/>
+					<quaternion qx="8.429369E-08" qy="-0.7071069" qz="-2.247648E-08" qw="-0.7071066"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_medium_pe02" group="group03 " tags="turret_medium_pe ">
+				<offset>
+					<position x="-95.95254" y="31.68588" z="1029.735"/>
+					<quaternion qx="-1" qy="4.371131E-08" qz="-3.377663E-07" qw="2.384186E-07"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_medium_pe04" group="group04 " tags="turret_medium_pe ">
+				<offset>
+					<position x="-95.41721" y="-32.84778" z="1029.735"/>
+					<quaternion qx="-0" qy="-1" qz="-0" qw="-3.377662E-07"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_medium_pe06" group="group07 " tags="turret_medium_pe ">
+				<offset>
+					<position x="-91.12065" y="79.41859" z="-440.64"/>
+					<quaternion qx="-0.7071063" qy="3.09086E-08" qz="-0.7071072" qw="3.090864E-08"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_medium_pe08" group="group07 " tags="turret_medium_pe ">
+				<offset>
+					<position x="-91.12068" y="79.41859" z="-585.8829"/>
+					<quaternion qx="-0.7071063" qy="3.09086E-08" qz="-0.7071072" qw="3.090864E-08"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_medium_pe10" group="group08 " tags="turret_medium_pe ">
+				<offset>
+					<position x="-90.91341" y="-79.59384" z="-440.64"/>
+					<quaternion qx="8.429371E-08" qy="-0.7071065" qz="-2.247643E-08" qw="-0.707107"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_medium_pe12" group="group08 " tags="turret_medium_pe ">
+				<offset>
+					<position x="-90.91342" y="-79.59384" z="-585.8829"/>
+					<quaternion qx="8.429371E-08" qy="-0.7071065" qz="-2.247643E-08" qw="-0.707107"/>
+				</offset>
+			</connection>
+		<connection name="connection_turret_small_mg002" group="group01 " tags="turret_small_mg ">
+				<offset>
+					<position x="-164.8946" y="31.96987" z="396.4128"/>
+					<quaternion qx="-0.7071069" qy="5.338506E-08" qz="-0.7071066" qw="-1.152023E-07"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg04" group="group01 " tags="turret_small_mg ">
+				<offset>
+					<position x="-164.8946" y="31.96987" z="349.9935"/>
+					<quaternion qx="-0.7071069" qy="5.338506E-08" qz="-0.7071066" qw="-1.152023E-07"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg06" group="group02 " tags="turret_small_mg ">
+				<offset>
+					<position x="-165.3109" y="-32.72477" z="396.821"/>
+					<quaternion qx="-0" qy="-0.7071068" qz="-6.181724E-08" qw="-0.7071068"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg08" group="group02 " tags="turret_small_mg ">
+				<offset>
+					<position x="-165.3109" y="-32.72477" z="349.5852"/>
+					<quaternion qx="-0" qy="-0.7071068" qz="-6.181724E-08" qw="-0.7071068"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg12" group="group03 " tags="turret_small_mg ">
+				<offset>
+					<position x="-184.0491" y="23.51996" z="1024.91"/>
+					<quaternion qx="-0.6854691" qy="-0.1735864" qz="-0.6854689" qw="0.1735864"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg14" group="group03 " tags="turret_small_mg ">
+				<offset>
+					<position x="-57.38262" y="23.44876" z="1024.91"/>
+					<quaternion qx="0.6940711" qy="-0.1351496" qz="-0.694071" qw="-0.1351497"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg16" group="group04 " tags="turret_small_mg ">
+				<offset>
+					<position x="-184.0542" y="-24.8615" z="1001.234"/>
+					<quaternion qx="0.1722427" qy="0.6858078" qz="0.1722426" qw="-0.685808"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg18" group="group04 " tags="turret_small_mg ">
+				<offset>
+					<position x="-57.38637" y="-24.89075" z="1001.234"/>
+					<quaternion qx="0.1360846" qy="-0.6938882" qz="-0.1360847" qw="-0.6938883"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg20" group="group05 " tags="turret_small_mg ">
+				<offset>
+					<position x="-170.74" y="24.72275" z="-424.9401"/>
+					<quaternion qx="-0.6782453" qy="-0.1999587" qz="-0.678245" qw="0.1999587"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg22" group="group05 " tags="turret_small_mg ">
+				<offset>
+					<position x="-170.74" y="-25.04593" z="-424.9401"/>
+					<quaternion qx="-0.1999588" qy="-0.6782452" qz="0.1999588" qw="-0.6782451"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_sg04" group="group06 " tags="turret_small_sg ">
+				<offset>
+					<position x="-202.8415" y="39.1407" z="-1068.931"/>
+					<quaternion qx="0.5970955" qy="-0.8021702" qz="-2.296224E-07" qw="2.874801E-07"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_sg05" group="group06 " tags="turret_small_sg ">
+				<offset>
+					<position x="-202.8415" y="-39.16732" z="-1068.931"/>
+					<quaternion qx="-0.8106772" qy="0.5854934" qz="1.662607E-07" qw="-1.832616E-07"/>
+				</offset>
+			</connection>
+			</add>
+</diff>

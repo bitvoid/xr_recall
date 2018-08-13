@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<diff>
+  <add sel="/macros/macro[@name='struct_econ_stor_energy_x4_fs_macro']/connections"><connection ref="connection_turret_small_mg03">
+        <macro ref="turret_small_mg_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_small_mg04">
+        <macro ref="turret_small_mg_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_small_mg05">
+        <macro ref="turret_small_mg_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_small_mg06">
+        <macro ref="turret_small_mg_macro" connection="connection_component01"/>
+      </connection>
+    </add>
+</diff>

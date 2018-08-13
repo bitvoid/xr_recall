@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<diff>
+  <add sel="/components/component[@name='struct_econ_prod_wheat']/connections"><connection name="connection_turret_small_mg02" group="group01 " tags="turret_small_mg ">
+				<offset>
+					<position x="-554.9795" y="281.0562" z="79.88354"/>
+					<quaternion qx="1.629207E-07" qy="1.629207E-07" qz="-1" qw="2.654315E-14"/>
+				</offset>
+			</connection>
+			</add>
+</diff>

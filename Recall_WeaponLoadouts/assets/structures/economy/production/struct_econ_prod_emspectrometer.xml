@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<diff>
+  <add sel="/components/component[@name='struct_econ_prod_emspectrometer']/connections"><connection name="connection_turret_medium_pe02" group="group02 " tags="turret_medium_pe ">
+				<offset>
+					<position x="62.76714" y="345.1512" z="-89.7399"/>
+					<quaternion qx="-0.7071071" qy="0.7071064" qz="-5.338505E-08" qw="5.33851E-08"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg04" group="group02 " tags="turret_small_mg ">
+				<offset>
+					<position x="62.70119" y="354.7765" z="-31.43025"/>
+					<quaternion qx="-0.6408565" qy="0.6408564" qz="0.2988361" qw="0.2988363"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg05" group="group03 " tags="turret_small_mg ">
+				<offset>
+					<position x="-25.67348" y="-246.6487" z="159.8172"/>
+					<quaternion qx="0.7071067" qy="-0" qz="-0" qw="-0.7071068"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg06" group="group03 " tags="turret_small_mg ">
+				<offset>
+					<position x="26.26772" y="-246.6487" z="159.8172"/>
+					<quaternion qx="0.7071067" qy="-0" qz="-0" qw="-0.7071068"/>
+				</offset>
+			</connection>
+			</add>
+</diff>

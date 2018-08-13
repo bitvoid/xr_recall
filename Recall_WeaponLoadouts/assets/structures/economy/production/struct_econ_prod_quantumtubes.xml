@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<diff>
+  <add sel="/components/component[@name='struct_econ_prod_quantumtubes']/connections"><connection name="connection_turret_small_mg02" group="group01 " tags="turret_small_mg ">
+				<offset>
+					<position x="-25.1207" y="553.4808" z="-240.5995"/>
+					<quaternion qx="1.629207E-07" qy="1.629207E-07" qz="-1" qw="2.654315E-14"/>
+				</offset>
+			</connection>
+			</add>
+</diff>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+  <replace sel="//acceleration/@pitch">375</replace>
+  <replace sel="//acceleration/@yaw">375</replace>
+  <replace sel="//acceleration/@roll">180</replace>
+  <replace sel="//speed/@pitch">135</replace>
+  <replace sel="//speed/@yaw">135</replace>
+  <replace sel="//speed/@roll">90</replace>
+</diff>

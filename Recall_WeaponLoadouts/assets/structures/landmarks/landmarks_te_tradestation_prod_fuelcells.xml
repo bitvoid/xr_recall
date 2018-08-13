@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<diff>
+  <add sel="/components/component[@name='landmarks_te_tradestation_prod_fuelcells']/connections"><connection name="connection_turret_small_mg21" group="group05 " tags="turret_small_mg ">
+				<offset>
+					<position x="-490.5638" y="20.68965" z="134.0742"/>
+					<quaternion qx="-0.5000001" qy="-0.5" qz="0.5" qw="0.4999998"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg22" group="group05 " tags="turret_small_mg ">
+				<offset>
+					<position x="-490.5638" y="-22.22825" z="134.0742"/>
+					<quaternion qx="-0.5000001" qy="-0.5" qz="0.5" qw="0.4999998"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg23" group="group05 " tags="turret_small_mg ">
+				<offset>
+					<position x="-647.6447" y="-22.22825" z="134.0742"/>
+					<quaternion qx="0.5000001" qy="-0.4999999" qz="0.4999999" qw="-0.5000001"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg24" group="group05 " tags="turret_small_mg ">
+				<offset>
+					<position x="-647.6447" y="20.68965" z="134.0742"/>
+					<quaternion qx="0.5000001" qy="-0.4999999" qz="0.4999999" qw="-0.5000001"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg25" group="group06 " tags="turret_small_mg ">
+				<offset>
+					<position x="-490.5638" y="21.04098" z="-133.8008"/>
+					<quaternion qx="-0.5000001" qy="0.4999999" qz="0.5000001" qw="-0.4999999"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg26" group="group06 " tags="turret_small_mg ">
+				<offset>
+					<position x="-647.6447" y="21.04098" z="-133.8008"/>
+					<quaternion qx="-0.4999998" qy="-0.5" qz="-0.5" qw="-0.5000001"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg27" group="group06 " tags="turret_small_mg ">
+				<offset>
+					<position x="-647.6447" y="-21.87692" z="-133.8008"/>
+					<quaternion qx="-0.4999998" qy="-0.5" qz="-0.5" qw="-0.5000001"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg28" group="group06 " tags="turret_small_mg ">
+				<offset>
+					<position x="-490.5638" y="-21.87692" z="-133.8008"/>
+					<quaternion qx="-0.5000001" qy="0.4999999" qz="0.5000001" qw="-0.4999999"/>
+				</offset>
+			</connection>
+			</add>
+</diff>

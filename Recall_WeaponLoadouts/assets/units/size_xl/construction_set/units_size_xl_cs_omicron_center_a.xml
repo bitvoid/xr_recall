@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<diff>
+  <add sel="/components/component[@name='units_size_xl_cs_omicron_center_a']/connections"><connection name="connection_turret_small_mg03" group="group01 " tags="turret_small_mg ">
+				<offset>
+					<position x="-46.12743" y="57.20493" z="-214.4695"/>
+					<quaternion qx="-0.7071061" qy="8.574435E-04" qz="-0.7071064" qw="8.572134E-04"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg04" group="group01 " tags="turret_small_mg ">
+				<offset>
+					<position x="46.55019" y="57.20493" z="-214.4696"/>
+					<quaternion qx="-0.7071065" qy="-8.575508E-04" qz="0.7071061" qw="8.573199E-04"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg07" group="group02 " tags="turret_small_mg ">
+				<offset>
+					<position x="-46.15201" y="-71.53873" z="-185.8213"/>
+					<quaternion qx="-8.575418E-04" qy="-0.7071061" qz="-8.573288E-04" qw="-0.7071065"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg08" group="group02 " tags="turret_small_mg ">
+				<offset>
+					<position x="46.5256" y="-71.53874" z="-185.8213"/>
+					<quaternion qx="-8.572443E-04" qy="0.7071064" qz="8.574126E-04" qw="-0.7071062"/>
+				</offset>
+			</connection>
+			</add>
+</diff>

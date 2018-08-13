@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<diff>
+  <add sel="/components/component[@name='units_size_l_dv_carrier_kit_new_defence_a']/connections"><connection name="connection_turret_small_mg01" group="group01 " tags="turret_small_mg ">
+				<offset>
+					<position x="-139.2077" y="-32.63438" z="-91.81277"/>
+					<quaternion qx="-1" qy="1.192093E-07" qz="1.509958E-07" qw="-1.629207E-07"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg02" group="group01 " tags="turret_small_mg ">
+				<offset>
+					<position x="-139.2077" y="-32.63438" z="-142.9816"/>
+					<quaternion qx="-1" qy="1.192093E-07" qz="1.509958E-07" qw="-1.629207E-07"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg03" group="group01 " tags="turret_small_mg ">
+				<offset>
+					<position x="-139.2077" y="-32.63438" z="-296.6217"/>
+					<quaternion qx="-7.549792E-08" qy="1.629207E-07" qz="-1" qw="1.192093E-07"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg04" group="group01 " tags="turret_small_mg ">
+				<offset>
+					<position x="-139.2077" y="-32.63438" z="-347.91"/>
+					<quaternion qx="-7.549792E-08" qy="1.629207E-07" qz="-1" qw="1.192093E-07"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg05" group="group02 " tags="turret_small_mg ">
+				<offset>
+					<position x="139.1931" y="-32.63438" z="-142.9816"/>
+					<quaternion qx="-1" qy="1.192093E-07" qz="1.509958E-07" qw="-1.629207E-07"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg06" group="group02 " tags="turret_small_mg ">
+				<offset>
+					<position x="139.1931" y="-32.63438" z="-296.6217"/>
+					<quaternion qx="-7.549792E-08" qy="1.629207E-07" qz="-1" qw="1.192093E-07"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg07" group="group02 " tags="turret_small_mg ">
+				<offset>
+					<position x="139.1931" y="-32.63438" z="-347.91"/>
+					<quaternion qx="-7.549792E-08" qy="1.629207E-07" qz="-1" qw="1.192093E-07"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_small_mg08" group="group02 " tags="turret_small_mg ">
+				<offset>
+					<position x="139.1931" y="-32.63438" z="-91.81277"/>
+					<quaternion qx="-1" qy="1.192093E-07" qz="1.509958E-07" qw="-1.629207E-07"/>
+				</offset>
+			</connection>
+			</add>
+</diff>

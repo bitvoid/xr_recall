@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<diff>
+  <add sel="/components/component[@name='landmarks_te_tradestation_ringcenter']/connections"><connection name="connection_turret_medium_pe10" group="group05 " tags="turret_medium_pe ">
+				<offset>
+					<position x="-614.4901" y="404.5156" z="102.3488"/>
+					<quaternion qx="0.6199394" qy="0.3401103" qz="-0.3401105" qw="-0.6199396"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_medium_pe11" group="group06 " tags="turret_medium_pe ">
+				<offset>
+					<position x="-657.2294" y="330.489" z="-101.7878"/>
+					<quaternion qx="0.366828" qy="-0.6045139" qz="-0.604514" qw="0.3668282"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_medium_pe12" group="group08" tags="turret_medium_pe ">
+				<offset>
+					<position x="616.3076" y="404.8217" z="102.3487"/>
+					<quaternion qx="0.6199394" qy="-0.3401106" qz="0.3401104" qw="-0.6199394"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_medium_pe13" group="group08 " tags="turret_medium_pe ">
+				<offset>
+					<position x="659.2236" y="330.489" z="102.3488"/>
+					<quaternion qx="0.6045139" qy="-0.3668281" qz="0.3668282" qw="-0.604514"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_medium_pe14" group="group07 " tags="turret_medium_pe ">
+				<offset>
+					<position x="616.4843" y="404.5157" z="-101.7878"/>
+					<quaternion qx="-0.3401105" qy="-0.6199395" qz="-0.6199394" qw="-0.3401103"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_medium_pe15" group="group07 " tags="turret_medium_pe ">
+				<offset>
+					<position x="659.4003" y="330.1829" z="-101.7878"/>
+					<quaternion qx="-0.3668282" qy="-0.604514" qz="-0.6045139" qw="-0.366828"/>
+				</offset>
+			</connection>
+			</add>
+</diff>

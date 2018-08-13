@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<diff>
+  <add sel="/macros/macro[@name='struct_econ_cw_te_water_f_macro']/connections"><connection ref="connection_turret_small_mg02">
+        <macro ref="turret_small_te_mg_macro" connection="connection_component01"/>
+      </connection>
+      <connection ref="connection_turret_small_mg03">
+        <macro ref="turret_small_te_mg_macro" connection="connection_component01"/>
+      </connection>
+    </add>
+</diff>

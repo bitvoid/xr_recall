@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<diff>
+  <add sel="/components/component[@name='landmarks_te_tradestation_extension_01']/connections"><connection name="connection_turret_medium_pe05" group="group02 " tags="turret_medium_pe ">
+				<offset>
+					<position x="-181.7356" y="-236.0043" z="1638.225"/>
+					<quaternion qx="7.549791E-08" qy="-1" qz="-4.371138E-08" qw="-1.192093E-07"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_medium_pe06" group="group02 " tags="turret_medium_pe ">
+				<offset>
+					<position x="179.8839" y="-236.0043" z="1638.31"/>
+					<quaternion qx="-1.192487E-08" qy="-1" qz="-4.371139E-08" qw="-3.258414E-07"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_medium_pe07" group="group02 " tags="turret_medium_pe ">
+				<offset>
+					<position x="44.4769" y="-236.0043" z="1638.31"/>
+					<quaternion qx="-1.192487E-08" qy="-1" qz="-4.371139E-08" qw="-3.258414E-07"/>
+				</offset>
+			</connection>
+			<connection name="connection_turret_medium_pe08" group="group02 " tags="turret_medium_pe ">
+				<offset>
+					<position x="-46.3286" y="-236.0043" z="1638.225"/>
+					<quaternion qx="7.549791E-08" qy="-1" qz="-4.371138E-08" qw="-1.192093E-07"/>
+				</offset>
+			</connection>
+			</add>
+</diff>
